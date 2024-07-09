@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janet Enyan\\source\\repos\\AddressBookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1D856B-0AC5-48FA-A5B2-29566975D55D}|AddressBookApp\\AddressBookApp.csproj|c:\\users\\janet enyan\\source\\repos\\addressbookapp\\addressbookapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA1D856B-0AC5-48FA-A5B2-29566975D55D}|AddressBookApp\\AddressBookApp.csproj|solutionrelative:addressbookapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1D856B-0AC5-48FA-A5B2-29566975D55D}|AddressBookApp\\AddressBookApp.csproj|c:\\users\\janet enyan\\source\\repos\\addressbookapp\\addressbookapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1D856B-0AC5-48FA-A5B2-29566975D55D}|AddressBookApp\\AddressBookApp.csproj|solutionrelative:addressbookapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Janet Enyan\\source\\repos\\AddressBookApp\\AddressBookApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AddressBookApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Janet Enyan\\source\\repos\\AddressBookApp\\AddressBookApp\\Form1.cs",
+              "RelativeToolTip": "AddressBookApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Janet Enyan\\source\\repos\\AddressBookApp\\AddressBookApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AddressBookApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Janet Enyan\\source\\repos\\AddressBookApp\\AddressBookApp\\Form1.cs [Design]",
+              "RelativeToolTip": "AddressBookApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:43:08.812Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
